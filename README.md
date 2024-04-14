@@ -1,1 +1,2 @@
 # project
+This repo includes all relevant files for a data analysis project, with the ultimate goal of creating a Report. The data, codes, visualizations and reports are all stored in their respective folders. The environment.yaml will enable you to re-run the code on another OS.
