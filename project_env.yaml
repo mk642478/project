@@ -1,0 +1,11 @@
+name: dstoolbox
+channels:
+  - conda-forge
+  - defaults
+  - python=3.10
+dependencies:
+  - ipykernel
+  - scikit-learn
+  - jupyterlab
+  - ipykernel
+prefix: C:\Users\seven\miniconda3\envs\dstoolbox
